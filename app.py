@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Researcher Profile", page_icon="🧠", layout="centered")
 
-st.title("Sinovuyio Langa — Research Profile")
+st.title("Sinovuyo Langa — Research Profile")
 st.write(" I am a seasoned business process and data enablement professional with more than nine  years of experience in business intelligence, process improvement") 
 
 st.header(" Implementing AI Powered Blockchain Technology in South Africa's Tender System ")
