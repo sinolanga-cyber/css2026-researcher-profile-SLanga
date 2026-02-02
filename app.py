@@ -155,7 +155,6 @@ elif tab == "Publications":
 else:
     st.header("Contact")
     st.write("Email: **sinolanga@gmail.com**")
-    st.write("GitHub/LinkedIn/Website: add links here")
 
     st.write("")
     st.subheader("Quick message (demo)")
