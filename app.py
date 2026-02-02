@@ -3,14 +3,9 @@ import streamlit as st
 st.set_page_config(page_title="Researcher Profile", page_icon="🧠", layout="centered")
 
 st.title("Sinovuyio Langa — Research Profile")
-st.write("Short bio: I am a seasoned business process and data enablement professional with more than nine  years of experience in business intelligence, process improvement, and strategic 
-reporting. Leveraging tools such as Tableau, SAP BW, SQL, and PowerBI, I deliver insights that inform strategy while simultaneously redesigning processes that strengthen 
-operational performance. My experience across USAID, the United Nations World Food Programme, Sasol, and the Central Energy Fund has equipped me with the ability to integrate data, people, and processes into cohesive business solutions. 
-With proven expertise in Agile delivery, automation, and performance optimisation, I am skilled in identifying process gaps, eliminating inefficiencies, and driving collaboration 
-across business units. I bring a strong commitment to aligning organisational processes with strategic goals and enabling sustainable business transformation through data-driven decision-making and well-designed operational frameworks. ")
+st.write(" I am a seasoned business process and data enablement professional with more than nine  years of experience in business intelligence, process improvement") 
 
-st.header(" Implementing AI Powered Blockchain Technology in South Africa's Tender 
-System ")
+st.header(" Implementing AI Powered Blockchain Technology in South Africa's Tender System ")
 st.markdown("""
 - Project Approach: Adoption of New Technology 
 - Technology Taxonomy Analysis 
