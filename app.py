@@ -149,7 +149,7 @@ elif tab == "Publications":
 - Paper 1 (2024) — *Contact me.*  
 - Paper 2 (2027) — *In the pipeline.*
 """)
-    st.info("You can replace these with real titles and links anytime.")
+    #st.info("You can replace these with real titles and links anytime.")
 
 # --- Contact ---
 else:
